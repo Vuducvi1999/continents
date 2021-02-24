@@ -4,3 +4,5 @@ Mô tả ứng dụng show dữ liệu 7 lục địa trên thế giới và chi
 - Sử dụng useEffect để lắng nghe thay đổi và cập nhật giá trị của state khi dữ liệu được get hoàn chỉnh
 - Data được get sẽ lưu trong store sử dụng Context
 - Chuyển hướng tới lục địa và trở về trang chủ bằng thẻ Link sử dụng react-router-dom
+
+Review app tại: https://jolly-aryabhata-d84ff2.netlify.app
